@@ -5,7 +5,14 @@ LinkedIn: linkedin.com/in/moein-rumee/ | GitHub: github.com/moein-rumee
 
 
 ## Education
-California State University East Bay - Bachelor of Science, Computer Science - May 2025
+### COOP Careers - Data Analytics Fellowship -	Expected Dec 2025
+
+Engaged in a 16-week fellowship program, acquiring expertise in data cleaning, transformation, analysis, and visualization using SQL, Python, and Tableau, alongside continuous professional development
+
+Completed a capstone project analyzing AT&T campaign data across location, audience, creative formats, and inventory, producing insights and recommendations to improve cost efficiency and engagement
+
+
+### California State University East Bay - Bachelor of Science, Computer Science - May 2025
 
 Relevant Coursework: Data Structure & Algorithms, Operating Systems, Software Engineering, Artificial Intelligence, Programming Languages (Python, Java, C++), Computer Networks
 
@@ -27,11 +34,9 @@ Relevant Coursework: Data Structure & Algorithms, Operating Systems, Software En
 
 
 ## Certifications
-•	AWS Certified Solutions Architect – Associate (Expected: Dec 2025)
+•	Google AI Essentials
 
-•	Associate Certificate, Computer Information Systems (Mission College)
-
-•	AT&T 2024 Technology Academy Graduate
+•	Google Data Analytics Professional Certificate
 
 
 
@@ -47,6 +52,17 @@ Design Your Future – Academic Portal Prototype (Python, Firebase APIs)
 
 
 ## Work Experience
+### Extern - 	Nov 2025 – Present
+
+AI Automation Extern, Wayfair
+
+•	Built multiple AI agents using n8n, enabling automated workflows for trend detection, competitor tracking, and marketing content generation
+
+•	Conducted in-depth trend analysis across the home goods sector, identifying patterns in consumer demand, style preferences, and design narratives; tracked competitor pricing, launches, and campaigns to extract structured insights
+
+•	Consolidated agent outputs into a live-updating Google Sheets dashboard, integrating trend signals, competitive benchmarks, and AI-generated insights to support category decision-making
+
+
 ### Outlier AI - Feb 2025 - Present
 
 Software Engineer (Freelance, AI Training Projects)
